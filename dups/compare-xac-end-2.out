@@ -1,0 +1,27 @@
+x: grid-y4-y5-raw/21599/fits/agn_ckpts/checkpoint-913771-R34_S22.ckpt
+grid-y4-y5-raw/21599/fits/agn_ckpts/checkpoint-913771-R34_S22.ckpt grid-y4-y5-raw/21875/fits/agn_ckpts/checkpoint-913771-R34_S22.ckpt True
+
+x: grid-y4-y5-raw/21599/fits/agn_ckpts/checkpoint-913771-R41_S00.ckpt
+grid-y4-y5-raw/21599/fits/agn_ckpts/checkpoint-913771-R41_S00.ckpt grid-y4-y5-raw/21875/fits/agn_ckpts/checkpoint-913771-R41_S00.ckpt True
+
+x: grid-y4-y5-raw/21599/fits/agn_ckpts/checkpoint-913771-R41_S01.ckpt
+grid-y4-y5-raw/21599/fits/agn_ckpts/checkpoint-913771-R41_S01.ckpt grid-y4-y5-raw/21875/fits/agn_ckpts/checkpoint-913771-R41_S01.ckpt True
+
+x: grid-y4-y5-raw/21601/fits/agn_ckpts/checkpoint-913786-R20_S22.ckpt
+grid-y4-y5-raw/21601/fits/agn_ckpts/checkpoint-913786-R20_S22.ckpt grid-y4-y5-raw/22160/fits/agn_ckpts/checkpoint-913786-R20_S22.ckpt True
+
+x: grid-y4-y5-raw/21601/fits/agn_ckpts/checkpoint-913786-R21_S00.ckpt
+grid-y4-y5-raw/21601/fits/agn_ckpts/checkpoint-913786-R21_S00.ckpt grid-y4-y5-raw/22160/fits/agn_ckpts/checkpoint-913786-R21_S00.ckpt True
+
+line counter: 10
+x: grid-y4-y5-raw/21601/fits/agn_ckpts/checkpoint-913786-R21_S01.ckpt
+grid-y4-y5-raw/21601/fits/agn_ckpts/checkpoint-913786-R21_S01.ckpt grid-y4-y5-raw/22160/fits/agn_ckpts/checkpoint-913786-R21_S01.ckpt True
+
+x: grid-y4-y5-raw/21601/fits/agn_ckpts/checkpoint-913786-R21_S02.ckpt
+grid-y4-y5-raw/21601/fits/agn_ckpts/checkpoint-913786-R21_S02.ckpt grid-y4-y5-raw/22160/fits/agn_ckpts/checkpoint-913786-R21_S02.ckpt True
+
+x: grid-y4-y5-raw/21601/fits/agn_ckpts/checkpoint-913786-R22_S20.ckpt
+grid-y4-y5-raw/21601/fits/agn_ckpts/checkpoint-913786-R22_S20.ckpt grid-y4-y5-raw/22019/fits/agn_ckpts/checkpoint-913786-R22_S20.ckpt True
+
+good: 8 bad: 0
+

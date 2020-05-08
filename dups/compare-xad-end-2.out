@@ -1,0 +1,34 @@
+x: grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920480-R42_S22.ckpt
+grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920480-R42_S22.ckpt grid-y4-y5-raw/22180/fits/agn_ckpts/checkpoint-920480-R42_S22.ckpt True
+
+x: grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920481-R43_S22.ckpt
+grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920481-R43_S22.ckpt grid-y4-y5-raw/22116/fits/agn_ckpts/checkpoint-920481-R43_S22.ckpt True
+
+x: grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920482-R01_S00.ckpt
+grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920482-R01_S00.ckpt grid-y4-y5-raw/22720/fits/agn_ckpts/checkpoint-920482-R01_S00.ckpt True
+
+x: grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920482-R01_S01.ckpt
+grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920482-R01_S01.ckpt grid-y4-y5-raw/22720/fits/agn_ckpts/checkpoint-920482-R01_S01.ckpt True
+
+x: grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920482-R01_S02.ckpt
+grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920482-R01_S02.ckpt grid-y4-y5-raw/22720/fits/agn_ckpts/checkpoint-920482-R01_S02.ckpt True
+
+line counter: 10
+x: grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920482-R01_S10.ckpt
+grid-y4-y5-raw/21597/fits/agn_ckpts/checkpoint-920482-R01_S10.ckpt grid-y4-y5-raw/22720/fits/agn_ckpts/checkpoint-920482-R01_S10.ckpt True
+
+x: grid-y4-y5-raw/21600/fits/agn_ckpts/checkpoint-920482-R12_S10.ckpt
+grid-y4-y5-raw/21600/fits/agn_ckpts/checkpoint-920482-R12_S10.ckpt grid-y4-y5-raw/22057/fits/agn_ckpts/checkpoint-920482-R12_S10.ckpt True
+
+x: grid-y4-y5-raw/21600/fits/agn_ckpts/checkpoint-920482-R12_S11.ckpt
+grid-y4-y5-raw/21600/fits/agn_ckpts/checkpoint-920482-R12_S11.ckpt grid-y4-y5-raw/22057/fits/agn_ckpts/checkpoint-920482-R12_S11.ckpt True
+
+x: grid-y4-y5-raw/21600/fits/agn_ckpts/checkpoint-920482-R12_S12.ckpt
+grid-y4-y5-raw/21600/fits/agn_ckpts/checkpoint-920482-R12_S12.ckpt grid-y4-y5-raw/22057/fits/agn_ckpts/checkpoint-920482-R12_S12.ckpt True
+
+x: grid-y4-y5-raw/21600/fits/agn_ckpts/checkpoint-920482-R12_S20.ckpt
+grid-y4-y5-raw/21600/fits/agn_ckpts/checkpoint-920482-R12_S20.ckpt grid-y4-y5-raw/22057/fits/agn_ckpts/checkpoint-920482-R12_S20.ckpt True
+
+line counter: 20
+good: 10 bad: 0
+
